@@ -1,0 +1,30 @@
+.gy-0 {
+    background-color: #c5bcbc;
+    height: 52px;
+    border-width: 10px;
+    margin: auto;
+    
+    
+  }
+  .div {
+    width: 300px;
+    height: 100px;
+    padding: ;
+    border: 5px solid gray
+    ;
+    border-width: 5px;
+    background-color:turquoise;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    block-size:auto;
+    padding-bottom: 10px;
+    padding-top: -10px;
+  }
+  .fload{
+       float:left;
+  }
+  .height{
+      height: 20px;
+  }
+  
